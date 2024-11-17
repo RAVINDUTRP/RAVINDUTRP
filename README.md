@@ -1,4 +1,5 @@
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
+
 <h3 align="center">A passionate ICT Student from Sri Lanka</h3>
 
 ### Content
@@ -15,7 +16,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://sl.bing.net/j9RzPfDBtkW">
+  <img align="center" alt="Coding" width="450" src="https://cdn.dribbble.com/users/44708/screenshots/2694410/code.gif">
 
   
   </td>
