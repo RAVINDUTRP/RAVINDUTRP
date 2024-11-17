@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width = 100% ></p>
+
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h4 align="center">A passionate IT Student from Sri Lanka</h4>
 
