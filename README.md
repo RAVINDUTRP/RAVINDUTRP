@@ -3,7 +3,7 @@
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
- <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+ <img align="center" alt="Coding" height = "200" width="100%" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
   
    - 👨‍🎓 I’m an Undergraduate at **SLIIT**
       
