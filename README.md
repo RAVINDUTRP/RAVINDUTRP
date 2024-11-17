@@ -1,13 +1,20 @@
-<img align="center" alt="heading" height="75" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
+<img align="center" alt="heading" height="30" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
-<img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+<table border="none">
+  <tr>
+    <td>
+      - 👨‍🎓 I’m an Undergraduate at **SLIIT**
+      - 📫 How to reach me **ravindupiyumal483@gmail.com**
+      </td>
+    <td>
+      <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+    </td>
+  </tr>
+</table>
 
-  - 👨‍🎓 I’m an Undergraduate at **SLIIT**
-
-  - 📫 How to reach me **ravindupiyumal483@gmail.com**
 ---
 
 <h3 align="center">My Statistics:</h3>
