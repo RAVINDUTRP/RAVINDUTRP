@@ -3,20 +3,12 @@
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
-<table align="center">
-  <tr border="none">
-    <td>
+ <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+  
    - 👨‍🎓 I’m an Undergraduate at **SLIIT**
       
    - 📫 How to reach me **ravindupiyumal483@gmail.com**
-      
-      </td>
-      <td>
-      <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
-      </td>
-  </tr>
-</table>
-
+     
 ---
 
 <h3 align="center">My Statistics:</h3>
