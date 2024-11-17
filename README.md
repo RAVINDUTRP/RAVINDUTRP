@@ -1,4 +1,4 @@
-<img align="center" alt="heading" height="30" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
+<img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
@@ -51,9 +51,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Light.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.9488bda344572f9b8490d28f7070adccrik=rFDFT49EEFcd9g&riu=http%3a%2f%2fsqlbackupandftp.com%2fblog%2fwp-content%2fuploads%2f2015%2f01%2fmysql-logo_2800x2800_pixels1-1024x1024.png&ehk=%2f5cRCxk6vXt2fKqtKYUCAB0Vn4FcJk2C%2fdl%2bIPkyrj0%3d&risl=&pid=ImgRaw&r=0" alt="mysql" width="50" height="50"/>
 </p>
 
 ---
-
+<img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
