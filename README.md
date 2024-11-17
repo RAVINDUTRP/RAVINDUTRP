@@ -4,7 +4,7 @@
 
 ---
 
-  <img align="center" alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
+  <img align="center" alt="Coding" width="100%" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif">
 
   - 👨‍🎓 I’m an Undergraduate at **SLIIT**
 
