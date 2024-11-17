@@ -1,12 +1,27 @@
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindutrp&label=Profile%20views&color=0e75b6&style=flat" alt="ravindutrp" /> </p>
+<h3 align="center">A passionate ICT Student from Sri Lanka</h3>
 
 ### Content
 ---
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+
+- 👨‍🎓 I’m an Undergraduate at **SLIIT**
+
 - 📫 How to reach me **ravindupiyumal483@gmail.com**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://sl.bing.net/j9RzPfDBtkW">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
