@@ -1,7 +1,6 @@
-<p align="center" ><img  src = "https://repository-images.githubusercontent.com/402721511/ac38af17-5d62-44d3-b009-54d04289f0d3" width = 100px></p>
+<p align="center" ><img  src = "https://files.readme.io/d14112d-Cloudsmith-Integrations-Banner-GitHub.png" width = 100px></p>
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
-
-<h3 align="center">A passionate IT Student from Sri Lanka</h3>
+<h4 align="center">A passionate IT Student from Sri Lanka</h4>
 
 ---
 
@@ -24,9 +23,7 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVINDUTRP&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RAVINDUTRP&theme=dark&hide_border=false&no-bg=true&noframe=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
