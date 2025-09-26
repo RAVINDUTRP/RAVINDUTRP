@@ -36,11 +36,36 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ravindu-piyumal-7b0a592a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu piyumal" height="50" width="50" /></a>
+<!-- <a href="https://www.linkedin.com/in/ravindu-piyumal-7b0a592a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu piyumal" height="50" width="50" /></a>
 <a href="https://www.facebook.com/share/19YEpWWBbn/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.piyumal.0301" height="50" width="50" /></a>
 <a href="https://instagram.com/_ravindu_piyumal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_piyumal_" height="50" width="50" /></a>
 <a href="https://www.youtube.com/channel/UCSpSDSGmazW8LJka0i0NRgQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ravindupiyumal_rv" height="50" width="50" /></a>
 </p>
+<a href="https://www.youtube.com/channel/UCSpSDSGmazW8LJka0i0NRgQ" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" height="50" width="50" />
+</a> -->
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/ravindu-piyumal/" target="_blank" style="margin: 0 15px;">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank" style="margin: 0 15px;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="50" width="50" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank" style="margin: 0 15px;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" height="50" width="50" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/channel/YOUR-YOUTUBE-CHANNEL-ID" target="_blank" style="margin: 0 15px;">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="60" width="60" />
+  </a>
+</p>
+
 
 ---
 
