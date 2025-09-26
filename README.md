@@ -46,7 +46,7 @@
 </a> -->
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/ravindu-piyumal/" target="_blank" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/ravindu-piyumal" target="_blank" style="margin: 0 15px;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" />
   </a>
 
