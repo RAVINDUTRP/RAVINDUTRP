@@ -1,9 +1,11 @@
 
-<img alt="Coding"  width=100% src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
+
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
+
 <h3 align="center">BSc(Hons) Information Technology</h3>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> </p>
 
