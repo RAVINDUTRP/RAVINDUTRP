@@ -129,7 +129,7 @@
 </p>
 
 ---
-> <h3> This is the place where anything you think can become what the world needs! ✨ </h3>
+> <h3> This is the place where anything you think can become what the world needs.! ✨ </h3>
 ---
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
