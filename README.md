@@ -1,10 +1,11 @@
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
-<h3 align="center">A passionate IT Student from Sri Lanka</h3>
+<h3 align="center">BSc(Hons) Information Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> </p>
 
+<br>
 <p align="center">
   <img alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif" />
 </p>
@@ -12,6 +13,9 @@
    - 👨‍🎓 I’m an Undergraduate at **SLIIT**
       
    - 📫 How to reach me **ravindupiyumal483@gmail.com**
+
+   - 🎯 Curious about my journey? Take a look at my **[Portfolio](https://beautiful-hamster-712e1d.netlify.app/)**
+
      
 ---
 
@@ -123,6 +127,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
+>  **"This is the place where anything you think can become what the world needs! ✨"**
 
 ---
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
