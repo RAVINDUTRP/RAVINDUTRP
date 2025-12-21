@@ -1,18 +1,17 @@
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
-<img alt="Coding"  src="https://github.com/user-attachments/assets/d3ae4726-7264-4b41-b76e-c1d307da185c" />
-
 <h3 align="center">BSc(Hons) Information Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> </p>
+
+
 
 - 💻 Interested in **Full-Stack Development** (MERN stack)  
 - 🚀 Enjoy turning ideas into **functional web apps**  
 - 📊 Exploring **data analytics & visualization**  
 - 🧠 Currently sharpening skills in **React, Node.js, and MongoDB**  
 - 🤝 Open to **internships, collaborations, and open-source**
-
 
 ---
 <p align="center">
