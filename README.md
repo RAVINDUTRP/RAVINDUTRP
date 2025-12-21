@@ -5,14 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> </p>
 
-
-
-- 💻 Interested in **Full-Stack Development** (MERN stack)  
-- 🚀 Enjoy turning ideas into **functional web apps**  
-- 📊 Exploring **data analytics & visualization**  
-- 🧠 Currently sharpening skills in **React, Node.js, and MongoDB**  
-- 🤝 Open to **internships, collaborations, and open-source**
-
 ---
 <p align="center">
   <img alt="Coding" width="450" src="https://i.pinimg.com/originals/bc/98/c9/bc98c9dcc76893a46fc71f3920846a05.gif" />
