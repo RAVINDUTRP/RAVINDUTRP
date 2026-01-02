@@ -14,7 +14,7 @@
       
    - 📫 How to reach me **ravindupiyumal483@gmail.com**
 
-   - 🎯 Curious about my journey? Take a look at my **[Portfolio](https://beautiful-hamster-712e1d.netlify.app/)**
+   - 🎯 Curious about my journey? Take a look at my **[Portfolio](https://ravindupiyumal.netlify.app/)**
 
      
 ---
