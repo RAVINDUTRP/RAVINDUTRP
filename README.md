@@ -73,9 +73,6 @@
   </a>
 </p>
 
-
-
-
 ---
 
 <h3 align="center">TECH STACK : </h3>
