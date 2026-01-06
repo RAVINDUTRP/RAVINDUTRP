@@ -30,9 +30,9 @@
   
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=RAVINDUTRP&show_icons=true&hide_border=false&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=58a6ff&border_color=ffffff" />
 <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVINDUTRP&theme=dark&hide_border=false" /> 
-
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVINDUTRP&theme=dark&hide_border=false" /> 
 </td>
+
 <td width="50%" align="center">
     <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RAVINDUTRP&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
