@@ -28,7 +28,7 @@
 <tr border="none"> 
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=RAVINDUTRP&theme=dark&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=RAVINDUTRP&show_icons=true&hide_border=false&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&icon_color=58a6ff&border_color=ffffff" />
 <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RAVINDUTRP&theme=dark&hide_border=false" /> 
 
@@ -195,6 +195,15 @@
     </td>
   </tr>
 </table>
+
+---
+<h3>🏆 GitHub Trophy Cabinet</h3>
+
+<p align="center">
+  <img width="80%" 
+       src="https://github-trophies.vercel.app/?username=RAVINDUTRP&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Stars,Followers,Commits,PullRequest,Reviews,Repositories,Issues" 
+       alt="RAVINDUTRP GitHub Trophies" />
+</p>
 
 ---
 > <h3> This is the place where anything you think can become what the world needs.! ✨ </h3>
