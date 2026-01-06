@@ -3,7 +3,10 @@
 <h1 align="center">Hi😊, I'm Ravindu Piyumal</h1>
 <h3 align="center">BSc(Hons) Information Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAVINDUTRP&label=Profile%20views&color=0e75b6&style=flat" alt="RAVINDUTRP" /> 
+  <img src="https://img.shields.io/github/followers/RAVINDUTRP?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
 <p align="center">
@@ -41,15 +44,6 @@
 
 <h3 align="center">CONNECT WITH ME : </h3>
 
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/ravindu-piyumal-7b0a592a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="ravindu piyumal" height="50" width="50" /></a>
-<a href="https://www.facebook.com/share/19YEpWWBbn/?mibextid=LQQJ4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu.piyumal.0301" height="50" width="50" /></a>
-<a href="https://instagram.com/_ravindu_piyumal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ravindu_piyumal_" height="50" width="50" /></a>
-<a href="https://www.youtube.com/channel/UCSpSDSGmazW8LJka0i0NRgQ" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="ravindupiyumal_rv" height="50" width="50" /></a>
-</p>
-<a href="https://www.youtube.com/channel/UCSpSDSGmazW8LJka0i0NRgQ" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" height="50" width="50" />
-</a> -->
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ravindu-piyumal" target="_blank" style="margin: 0 10px;">
@@ -210,9 +204,6 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
   </a>
 </p>
-
-
-
 
 <img align="center" alt="heading" height="25" width="100%" src="https://i.ebayimg.com/images/g/3kIAAOSwsfRgVGuR/s-l1600.jpg">
 
