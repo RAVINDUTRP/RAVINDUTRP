@@ -17,7 +17,7 @@
       
    - 📫 How to reach me **ravindupiyumal483@gmail.com**
 
-   - 🎯 Curious about my journey? Take a look at my **[Portfolio](https://ravindupiyumal.netlify.app/)**
+   - 🚀 Explore my work and projects in my **[Portfolio](https://ravindupiyumal.netlify.app/)**
 
      
 ---
