@@ -69,132 +69,35 @@
 
 ---
 
-<h3 align="center">TECH STACK : </h3>
+<h3 align="center">TECH STACK & TOOLS: </h3>
 
 <!-- Frontend -->
 <h3>🎨 Frontend</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">HTML5</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">CSS3</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">JavaScript</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">React</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,js,react" />
 
 <!-- Backend -->
 <h3>⚙️ Backend</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Node.js</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Express</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,spring" />
 
 <!-- Databases -->
 <h3>🗄️ Databases</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">MySQL</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">MongoDB</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb" />
 
 <!-- Programming Languages -->
 <h3>🧠 Programming Languages</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">C</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">C++</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Python</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python" />
 
 <!-- Tools & Platforms -->
 <h3>🛠️ Tools & Platforms</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Git</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Linux</span>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">VS Code</span>
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Postman</span>
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Cursor AI</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,linux,vscode,postman,docker" />
 
 <!-- Data & Analytics -->
 <h3>📊 Data & Analytics</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Jupyter</span>
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Power BI</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,powerbi" />
 
 <!-- Design -->
 <h3>🎨 Design</h3>
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="26"/><br/>
-      <span style="color:#9ca3af; font-size:11px;">Figma</span>
-    </td>
-  </tr>
-</table>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma" />
 
 ---
 <h3>🏆 GitHub Trophy Cabinet</h3>
