@@ -93,7 +93,7 @@
 
 <!-- Data & Analytics -->
 <h3>📊 Data & Analytics</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,powerbi" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,pbi" />
 
 <!-- Design -->
 <h3>🎨 Design</h3>
